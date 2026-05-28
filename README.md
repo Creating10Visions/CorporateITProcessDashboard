@@ -46,6 +46,7 @@ Run the following command to execute the complete dashboard workflow:
 ```bash
 python Scripts/run_all.py
 
+
 ## Screenshots
 
 ![Full dashboard run](Screenshots/full_dashboard_run.png)
