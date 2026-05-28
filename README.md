@@ -23,13 +23,13 @@ improved workflow visibility, and continuous improvement.
 - Matplotlib
 
 ## Project Files
-- `Scripts/import_data.py` – imports mock request data into SQLite
-- `Scripts/kpi_report.py` – generates KPI summary output
-- `Scripts/chart_report.py` – creates chart visualizations
-- `Data/it_requests.csv` – mock request data
-- `Output/it_process.db` – SQLite database
-- `Output/kpi_summary.txt` – KPI summary report
-- `Output/charts/` – generated chart images
+- `Scripts/import_data.py` â€“ imports mock request data into SQLite
+- `Scripts/kpi_report.py` â€“ generates KPI summary output
+- `Scripts/chart_report.py` â€“ creates chart visualizations
+- `Data/it_requests.csv` â€“ mock request data
+- `Output/it_process.db` â€“ SQLite database
+- `Output/kpi_summary.txt` â€“ KPI summary report
+- `Output/charts/` â€“ generated chart images
 
 ## How to Run
 1. Run `import_data.py` to create the database and load the CSV data.
@@ -45,3 +45,10 @@ Run the following command to execute the complete dashboard workflow:
 
 ```bash
 python Scripts/run_all.py
+
+## Screenshots
+
+![Full dashboard run](Screenshots/full_dashboard_run.png)
+![KPI summary](Screenshots/kpi_summary.png)
+![Status chart](Screenshots/status_chart.png)
+![Team chart](Screenshots/team_chart.png)
