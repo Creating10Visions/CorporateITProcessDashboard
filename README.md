@@ -51,6 +51,4 @@ python Scripts/run_all.py
 ## Screenshots
 
 ![Full dashboard run](Screenshots/full_dashboard_run.png)
-![KPI summary](Screenshots/kpi_summary.png)
-![Status chart](Screenshots/status_chart.png)
-![Team chart](Screenshots/team_chart.png)
+
