@@ -50,5 +50,5 @@ python Scripts/run_all.py
 
 ## Screenshots
 
-![Full dashboard run](Screenshots/full_dashboard_run.png)
+![Full dashboard run](./Screenshots/full_dashboard_run.png)
 
